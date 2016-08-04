@@ -1,6 +1,6 @@
-.column h1{
+/*.column h1{
   float: right;
-}
+}*/
 
 .img {
   float: left;
@@ -8,7 +8,7 @@
   height: 200px;
   border-radius: 300px;
 }
-
+/*
 .col {
   width: 200px;
   height: 200px;
@@ -32,4 +32,4 @@
 
   @media print {
     .col57 {page-break-after: always;}
-  }
+  } */
