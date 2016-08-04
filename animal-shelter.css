@@ -14,3 +14,22 @@
   height: 200px;
   float: right;
 }
+
+@media screen and (max-width: 980px) and (min-width: 360px) {
+  body {
+    background-color: green;
+    }
+  }
+@media screen and (max-width: 1400px) and (min-width: 981px) {
+  body {
+    background-color: purple;
+  }
+}
+
+  @media print {
+    .column2 {page-break-after: always;}
+  }
+
+  @media print {
+    .col57 {page-break-after: always;}
+  }
