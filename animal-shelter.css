@@ -1,0 +1,16 @@
+.column h1{
+  float: right;
+}
+
+.img {
+  float: left;
+  width: 200px;
+  height: 200px;
+  border-radius: 300px;
+}
+
+.col {
+  width: 200px;
+  height: 200px;
+  float: right;
+}
